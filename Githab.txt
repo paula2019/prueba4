@@ -1,0 +1,57 @@
+GIT HUB repositorio
+
+git --version ( compobar la version que se tiene actualmente)
+------------------------------------------------
+ (configuracion del nombre y gmail )
+
+git config --global user.name "paula" 
+                    user.correo "paula@gmail.com"
+------------------------------------------------------
+git config --list
+--------------------------------------------
+
+raiz del proyecto 
+------------------------------------------------------
+
+     /// git bash ///
+raiz de la carpeta
+ls - l / los cambios 
+git init ( crear repositio  vacio
+git commit -m 'primer paso
+git push -u original master
+
+// git bash bien
+
+ls  ( me muestra lo que hay)
+git init
+git status ( 
+git add (archivo)
+git status
+wq
+
+https://www.youtube.com/watch?v=HiXLkL42tMU&t=2656s
+https://www.youtube.com/watch?v=3XlZWpLwvvo&t=613s      
+
+
+
+Para realizar git hub
+
+Vas git hub creas un repositorio lo copias
+----------------------------
+te vas a git bash a la raiz de la carpeta
+ git clone https://github.com/paula2019/prueba2.git
+-----------------------------
+en la carpeta creas un txt puede ser
+---------
+git status
+----------
+agregas el file
+-----
+git add . 
+.....
+git add la.txt 
+..-----------------
+git commit -m "primer"
+
+
+Se hace una carpeta en escritorio git
